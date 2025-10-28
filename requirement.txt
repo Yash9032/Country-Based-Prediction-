@@ -3,5 +3,4 @@ pandas
 scikit-learn
 joblib
 numpy
-uv
-uvx
+
